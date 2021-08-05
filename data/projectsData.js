@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'MahaMetroLink',
-    description: `MahaMetroLink is a proposed system for Pune Metro as a one stop solution for customer functionalities and service desk operations developed during Salesforce Hackathon`,
+    description: `MahaMetroLink is a proposed system for Pune Metro as a one stop solution for customer functionalities and service desk operations developed during Salesforce Hackathon 2021 at Persistent Systems`,
     imgSrc: '/static/images/mahametrolink.png',
     href: 'https://mahametrolink-developer-edition.ap24.force.com/MahaMetroLinkPune/s/',
     githubURL: 'https://github.com/ashishsalunkhe/salesforce-hackathon-team-speedforce'
