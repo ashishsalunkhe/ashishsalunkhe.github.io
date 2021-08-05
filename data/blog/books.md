@@ -1,9 +1,9 @@
 ---
 title: Books I've Read in 2021
-date: '2021-05-06'
-tags: ['Books', 'Resolution', 'reading']
+date: '2021-07-12'
+tags: ['Books', 'Resolution', 'reading', 'Hobby']
 draft: false
-summary: Thread about the books I completed reading in 2021.
+summary: Thread about the books I completed reading in 2021. I'll keep updating this blog as I read.
 ---
 
 - [Tweet](https://twitter.com/i/status/1390368138319908867) by [@avsalunkhe98](https://twitter.com/avsalunkhe98) on [[May 6th, 2021]]:
@@ -29,4 +29,8 @@ summary: Thread about the books I completed reading in 2021.
     - If you've read his books, especially - The Alchemist, you won't be disappointed
     - Less than an hour to read. Fable about achieving. Draws analogy b/w mastering archery & mastering anything. Risks, Courage & Embracing the unexpected
     (10/10)
+<hr/>
+5. [The Most Important Thing: Uncommon Sense for the Thoughtful Investor - Howard Marks](https://www.amazon.com/Most-Important-Thing-Uncommon-Thoughtful/dp/151138347X) (July 21)
+    - This book is intended to highlight the most important elements of investment security analysis. Provides good high-level overview of investment philosophy but lacks details.
+(7/10)
 <hr/>
